@@ -1,3 +1,7 @@
+<p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p>
+
 <h3 align="center">
         <samp>Hey There!, I am
                 <b><a target="_blank" href="https://github.com/NAAADIR/">Nadir</a></b>
