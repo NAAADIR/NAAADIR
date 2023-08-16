@@ -34,7 +34,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NAAADIR&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAAADIR&theme=radical" />
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=NAAADIR&theme=radical&card_width=521)](https://git.io/streak-stats) 
 
 ## 📰 Things I code with
 <br>
