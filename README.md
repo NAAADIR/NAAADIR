@@ -1,3 +1,10 @@
+<h3 align="center">
+        <samp>Hey There!, I am
+                <b><a target="_blank" href="https://github.com/NAAADIR/">Nadir</a></b>
+        </samp>
+</h3>
+<br>
+
 <p align="center">
         <!-- Intro -->
         <samp>
