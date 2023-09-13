@@ -78,4 +78,8 @@
   <img alt="Linux" src=https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black />
 </p>
 <br /> 
+<p align="center">
+<samp>
 「 Tips: host a static site or a front-end application for free in Next.js with <b>Vercel</b>, otherwise host a Laravel or other backend for free with <b>Coolify</b> 」
+</samp>
+</p>
