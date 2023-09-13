@@ -77,3 +77,5 @@
   <img alt="VSCode" src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white />
   <img alt="Linux" src=https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black />
 </p>
+<br /> 
+「 Tips: host a static site or a front-end application for free in Next.js with <b>Vercel</b>, otherwise host a Laravel or other backend for free with <b>Coolify</b> 」
