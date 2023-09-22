@@ -80,6 +80,6 @@
 <br /> 
 <p align="center">
 <samp>
-「 Tips: host a static site or a front-end application for free in Next.js with <b>Vercel</b>, otherwise host a Laravel or other backend for free with <b>Coolify</b> 」
+「 Tips: host a static site or a front-end application for free in Next.js with <b>Vercel</b> 」
 </samp>
 </p>
